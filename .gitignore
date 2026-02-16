@@ -1,0 +1,9 @@
+# Ignore executable files
+*.exe
+
+# Ignore VS Code folder
+.vscode/
+
+# Ignore object files
+*.o
+*.out
