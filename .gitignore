@@ -7,3 +7,4 @@
 # Ignore object files
 *.o
 *.out
+*.obj
