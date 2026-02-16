@@ -40,6 +40,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day | Problem Name | Topic | Status |
 |-----|-------------|--------|--------|
 | Day 1 | Single Number | Arrays | ✅ |
+| Day 2 | Two Sum |   Arrays  | ✅ |
 
 ---
 
