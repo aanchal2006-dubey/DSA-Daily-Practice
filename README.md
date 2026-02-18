@@ -42,6 +42,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 1 | Single Number | Arrays | ✅ |
 | Day 2 | Two Sum |   Arrays  | ✅ |
 | Day 3 | Maximum Sumarray | Array | ✅ |
+| Day 4 | Majority Element | Array | ✅ |
 
 ---
 
