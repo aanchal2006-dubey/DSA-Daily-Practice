@@ -45,6 +45,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 4 | Majority Element | Array | ✅ |
 | Day 5 | Search In Rotated Sorted Array | Array | ✅ |
 | Day 6 | Array Leaders | Array | ✅ |
+| Day 7 | Array Duplicates | Array | ✅ |
 
 ---
 
