@@ -47,6 +47,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 6 | Array Leaders | Array | ✅ |
 | Day 7 | Array Duplicates | Array | ✅ |
 | Day 8 | Parenthesis Checker | String | ✅ |
+| Day 9 | Equilibrium Point | Array | ✅ |
 
 ---
 
