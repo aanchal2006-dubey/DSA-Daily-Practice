@@ -48,6 +48,8 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 7 | Array Duplicates | Array | ✅ |
 | Day 8 | Parenthesis Checker | String | ✅ |
 | Day 9 | Equilibrium Point | Array | ✅ |
+| Day 10 | Merge Sorted Array | Array | ✅ |
+| Day 11 | Remove Element | Array | ✅ |
 
 ---
 
