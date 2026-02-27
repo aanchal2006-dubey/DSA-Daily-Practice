@@ -51,6 +51,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 10 | Merge Sorted Array | Array | ✅ |
 | Day 11 | Remove Element | Array | ✅ |
 | Day 12 | Peak Index In Mountain Array | Array | ✅ |
+| Day 13 | Single Element In Sorted Array | Array | ✅ |
 
 ---
 
