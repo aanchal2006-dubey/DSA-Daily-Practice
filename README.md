@@ -53,6 +53,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 12 | Peak Index In Mountain Array | Array | ✅ |
 | Day 13 | Single Element In Sorted Array | Array | ✅ |
 | Day 14 | Remove Duplicates From Sorted Array | Array| ✅ |
+| Day 15 | Floor In Sorted Array | Array | ✅ |
 
 ---
 
