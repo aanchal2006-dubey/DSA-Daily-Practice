@@ -55,6 +55,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 14 | Remove Duplicates From Sorted Array | Array| ✅ |
 | Day 15 | Floor In Sorted Array | Array | ✅ |
 | Day 16 | Count Digits | Maths | ✅ |
+| Day 17 | Book Allocation Problem | Array | ✅|
 
 ---
 
