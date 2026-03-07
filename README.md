@@ -59,6 +59,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 18 | Painter Partition Problem | Array | ✅ |
 | Day 19 | Aggressive Cows Problem | Array | ✅ |
 | Day 20 | Two Sum - Pair With Zero Sum | Array | ✅ |
+| Day 21 | Integer To Roman | Array | ✅ |
 
 ---
 
