@@ -61,6 +61,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 20 | Two Sum - Pair With Zero Sum | Array | ✅ |
 | Day 21 | Integer To Roman | Array | ✅ |
 | Day 22 | Sort Array With 0s 1s And 2s | Array | ✅ |
+| Day 23 | Next Permutation | Array | ✅ |
 
 ---
 
