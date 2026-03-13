@@ -65,6 +65,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 24 | Common In 3 Sorted Array | Array | ✅ |
 | Day 25 | Union Of Arrays With Duplicates | Array | ✅ |
 | Day 26 | Find First Non-Repeating Element In Array | Array | ✅ |
+| Day 27 | Power Of 2 | Maths | ✅ |
 
 ---
 
