@@ -67,6 +67,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 26 | Find First Non-Repeating Element In Array | Array | ✅ |
 | Day 27 | Power Of 2 | Maths | ✅ |
 | Day 28 | Reverse String | String | ✅ |
+| Day 29 | Valid Palindrome | String | ✅ |
 
 ---
 
