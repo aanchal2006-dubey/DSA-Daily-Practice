@@ -69,6 +69,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 28 | Reverse String | String | ✅ |
 | Day 29 | Valid Palindrome | String | ✅ |
 | Day 30 | Remove All Occurrences Of A String | String | ✅ |
+| Day 31 | Permutation In String | String | ✅ |
 
 ---
 
