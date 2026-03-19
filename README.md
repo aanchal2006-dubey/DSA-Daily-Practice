@@ -71,6 +71,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 30 | Remove All Occurrences Of A String | String | ✅ |
 | Day 31 | Permutation In String | String | ✅ |
 | Day 32 | Reverse Words In String | String | ✅ |
+| Day 33 | Roman To Integer | String | ✅ |
 
 ---
 
