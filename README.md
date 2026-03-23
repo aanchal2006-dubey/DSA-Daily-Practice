@@ -75,6 +75,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 34 | String Compression | String | ✅ |
 | Day 35 | Count Prime Numbers | Maths | ✅ |
 | Day 36 | Armstrong Number Check | Maths | ✅ |
+| Day 37 | Find GCD | Maths | ✅ |
 
 ---
 
