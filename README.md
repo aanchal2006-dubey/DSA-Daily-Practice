@@ -77,6 +77,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 36 | Armstrong Number Check | Maths | ✅ |
 | Day 37 | Find GCD | Maths | ✅ |
 | Day 38 | Reverse Number | Maths | ✅ |
+| Day 39 | Check Palindrome | Maths | ✅ |
 
 ---
 
