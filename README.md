@@ -80,6 +80,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 39 | Check Palindrome | Maths | ✅ |
 | Day 40 | Search In 2D Array | Array | ✅ |
 | Day 41 | Compute x Raised to Power n | Maths | ✅ |
+| Day 42 | Stock Buy And Sell | Array | ✅ |
 
 ---
 
