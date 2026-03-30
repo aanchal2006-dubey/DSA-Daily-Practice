@@ -82,6 +82,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 41 | Compute x Raised to Power n | Maths | ✅ |
 | Day 42 | Stock Buy And Sell | Array | ✅ |
 | Day 43 | Container With Most Water | Array | ✅ |
+| Day 44 | Maximum Row Sum In 2D Array | Array | ✅ |
 
 ---
 
