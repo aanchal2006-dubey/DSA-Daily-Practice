@@ -85,6 +85,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 44 | Maximum Row Sum In 2D Array | Array | ✅ |
 | Day 45 | Diagonal Sum In 2D Array | Array | ✅ |
 | Day 46 | Search In 2D Matrix | Array | ✅ | 
+| Day 47 | Search In 2D Matrix II | Array | ✅ | 
 
 ---
 
