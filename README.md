@@ -87,6 +87,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 46 | Search In 2D Matrix | Array | ✅ | 
 | Day 47 | Search In 2D Matrix II | Array | ✅ | 
 | Day 48 | Spiral Matrix | Array | ✅ |
+| Day 49 | Find Missing And Repeating Value | Array | ✅ |
 
 ---
 
