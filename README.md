@@ -90,6 +90,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 49 | Find Missing And Repeating Value | Array | ✅ |
 | Day 50 | Find Duplicate Number | Array | ✅ |
 | Day 51 | Three Sum | Array | ✅ | 
+| Day 52 | Four Sum | Array | ✅ |
 
 ---
 
