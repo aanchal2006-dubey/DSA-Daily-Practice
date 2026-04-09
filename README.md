@@ -92,6 +92,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 51 | Three Sum | Array | ✅ | 
 | Day 52 | Four Sum | Array | ✅ |
 | Day 53 | Indexes Of Subarray Sum | Array | ✅ |
+| Day 54 | Permutations | Array | ✅ |
 
 ---
 
