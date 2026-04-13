@@ -96,6 +96,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 55 | Subarray Sum Equals K | Array | ✅ |
 | Day 56 | Fibonacci Number | Maths | ✅ |
 | Day 57 | Check If Array Is Sorted | Array | ✅ |
+| Day 58 | Binary Search By Recursion | Array | ✅ |
 
 ---
 
