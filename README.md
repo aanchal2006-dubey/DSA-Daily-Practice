@@ -98,6 +98,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 57 | Check If Array Is Sorted | Array | ✅ |
 | Day 58 | Binary Search By Recursion | Array | ✅ |
 | Day 59 | Single Number II | Array | ✅ |
+| Day 60 | Longest Subarray With Sum k | Array | ✅ |
 
 ---
 
