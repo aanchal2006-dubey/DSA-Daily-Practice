@@ -100,6 +100,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 59 | Single Number II | Array | ✅ |
 | Day 60 | Longest Subarray With Sum k | Array | ✅ |
 | Day 61 | Print All Subsets | Array | ✅ |
+| Day 62 | Subsets | Array | ✅ |
 
 ---
 
