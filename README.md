@@ -102,6 +102,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 61 | Print All Subsets | Array | ✅ |
 | Day 62 | Subsets | Array | ✅ |
 | Day 63 | Subsets II | Array | ✅ |
+| Day 64 | N-Queens | Arrays | ✅ |
 
 ---
 
