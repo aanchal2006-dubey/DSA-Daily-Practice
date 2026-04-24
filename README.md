@@ -107,6 +107,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 66 | Rate In A Maze | Array | ✅ |
 | Day 67 | Combination Sum | Array | ✅ |
 | Day 68 | Palindrome Partitioning | Array | ✅ |
+| Day 69 | Merge Sort | Array | ✅ |
 
 ---
 
