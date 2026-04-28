@@ -111,6 +111,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 70 | Quick Sort | Array | ✅ | 
 | Day 71 | Selection Sort | Array | ✅ |
 | Day 72 | Pascal Triangle | Maths | ✅ |
+| Day 73 | Count Inversions | Array | ✅ |
 
 ---
 
