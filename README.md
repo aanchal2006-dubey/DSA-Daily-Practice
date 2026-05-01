@@ -113,7 +113,8 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 72 | Pascal Triangle | Maths | ✅ |
 | Day 73 | Count Inversions | Array | ✅ |
 | Day 74 | Check Knight Tour Configuration | Array | ✅ |
-| Day 75 | Reverse Linked List | LinkedList | ✅ | 
+| Day 75 | Reverse Linked List | LinkedList | ✅ |
+| Day 76 | Middle Of Linked List | LinkedList | ✅ |
 
 ---
 
