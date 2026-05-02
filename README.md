@@ -115,6 +115,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 74 | Check Knight Tour Configuration | Array | ✅ |
 | Day 75 | Reverse Linked List | LinkedList | ✅ |
 | Day 76 | Middle Of Linked List | LinkedList | ✅ |
+| Day 77 | Detect Cycle In Linked List | LinkedList | ✅ |
 
 ---
 
