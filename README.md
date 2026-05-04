@@ -117,6 +117,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 76 | Middle Of Linked List | LinkedList | ✅ |
 | Day 77 | Detect Cycle In Linked List | LinkedList | ✅ |
 | Day 78 | Linked List Cycle II | LinkedList | ✅ |
+| Day 79 | Remove Cycle From Linked List | LinkedList | ✅ |
 
 ---
 
