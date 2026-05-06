@@ -119,6 +119,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 78 | Linked List Cycle II | LinkedList | ✅ |
 | Day 79 | Remove Cycle From Linked List | LinkedList | ✅ |
 | Day 80 | Merge Two Sorted List | LinkedList | ✅ |
+| Day 81 | Copy List With Random Pointer | LinkedList | ✅ |
 
 ---
 
