@@ -123,6 +123,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 82 | Flatten A Multilevel Doubly Linked List | LinkedList | ✅ |
 | Day 83 | Reverse Nodes In K-Group | LinkedList | ✅ |
 | Day 84 | Swap Nodes In Pairs | LinkedList | ✅ |
+| Day 85 | Happy Number | Maths | ✅ |
 
 ---
 
