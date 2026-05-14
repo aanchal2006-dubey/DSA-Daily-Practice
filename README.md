@@ -127,6 +127,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 86 | Stock Span Problem | Stack | ✅ |
 | Day 87 | Next Greater Elements | Stack | ✅ |
 | Day 88 | Next Greater Elements I | Stack | ✅ |
+| Day 89 | Previous Smaller Elements | Stack | ✅ |
 
 ---
 
