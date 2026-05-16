@@ -129,6 +129,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 88 | Next Greater Elements I | Stack | ✅ |
 | Day 89 | Previous Smaller Elements | Stack | ✅ |
 | Day 90 | Min Stack | Stack | ✅ |
+| Day 91 | Largest Rectangle In Histogram | Stack | ✅ |
 
 ---
 
