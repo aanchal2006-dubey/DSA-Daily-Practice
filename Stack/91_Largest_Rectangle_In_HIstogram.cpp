@@ -1,0 +1,54 @@
+/* Given an array of integers heights representing the histogram's bar heights where the width of each bar is 1, return the area of the largest rectangle in the histogram.
+
+Input: heights = [2,1,5,6,2,3] 
+Output: 10
+Explanation: The above is a histogram where width of each bar is 1. The largest rectangle is shown in the red area, which has an area of 10 units. 
+*/
+
+#include<iostream>
+#include<vector>
+#include<stack>
+using namespace std;
+
+class Solution {
+public:
+    int largerstRectangleArea(vector<int>& heights) {
+        int n = heights.size();
+        vector<int> left(n, 0);
+        vector<int> right(n, 0);
+        stack<int> s;
+
+        for(int i=n-1; i>=0; i--) {
+            while(s.size() > 0 && heights[s.top()] >= heights[i]) {
+                s.pop();
+            }
+            right[i] = s.empty() ? n : s.top();
+            s.push(i);
+        }
+
+        while(!s.empty()) {
+            s.pop();
+        }
+
+        for(int i=0; i<n; i++) {
+            while(s.size() > 0 && heights[s.top()] >= heights[i]) {
+                s.pop();
+            }
+            left[i] = s.empty() ? -1 : s.top();
+            s.push(i);
+        }
+
+        int ans = 0;
+        for(int i=0; i<n; i++) {
+            ans = max(ans, heights[i] * (right[i] - left[i] - 1));
+        }
+        return ans;
+    }
+};
+
+int main() {
+    Solution s;
+    vector<int> heights = {2,1,5,6,2,3};
+    cout << s.largerstRectangleArea(heights) << endl;
+    return 0;
+}
