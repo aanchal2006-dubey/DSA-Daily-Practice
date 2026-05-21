@@ -134,6 +134,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 93 | Trapping Rain Water | Stack | ✅ |
 | Day 94 | Celebrity Problem | Stack | ✅ |
 | Day 95 | LRU Cache | Stack | ✅ |
+| Day 96 | Implement Stack Using Queue | Queue | ✅ |
 
 ---
 
