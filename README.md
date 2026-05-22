@@ -135,6 +135,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 94 | Celebrity Problem | Stack | ✅ |
 | Day 95 | LRU Cache | Stack | ✅ |
 | Day 96 | Implement Stack Using Queue | Queue | ✅ |
+| Day 97 | Implement Queue Using Stacks | Queue | ✅ |
 
 ---
 
