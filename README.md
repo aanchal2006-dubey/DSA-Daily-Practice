@@ -137,6 +137,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 96 | Implement Stack Using Queue | Queue | ✅ |
 | Day 97 | Implement Queue Using Stacks | Queue | ✅ |
 | Day 98 | First Unique Character In A String | Queue | ✅ |
+| Day 99 | Sliding Window Maximum | Queue | ✅ |
 
 ---
 
