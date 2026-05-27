@@ -140,6 +140,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 99 | Sliding Window Maximum | Queue | ✅ |
 | Day 100 | Gas Station | Queue | ✅ |
 | Day 101 | Height Of Tree | Trees | ✅ |
+| Day 102 | Count Of Tree | Trees | ✅ |
 
 ---
 
