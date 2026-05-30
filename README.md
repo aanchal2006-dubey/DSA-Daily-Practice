@@ -143,6 +143,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 102 | Count Of Tree | Trees | ✅ |
 | Day 103 | Sum Of Nodes | Trees | ✅ |
 | Day 104 | Identical Tree | Trees | ✅ |
+| Day 105 | Subtree Of Another Tree | Trees | ✅ |
 
 ---
 
