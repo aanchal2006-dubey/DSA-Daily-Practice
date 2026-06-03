@@ -147,6 +147,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 106 | Diameter Of Binary Tree | Trees | ✅ |
 | Day 107 | Top View Of A Tree | Trees | ✅ |
 | Day 108 | Kth Level Of A Tree | Trees | ✅ |
+| Day 109 | Check If A Binary Tree Is Valid BST | Trees | ✅ |
 
 ---
 
