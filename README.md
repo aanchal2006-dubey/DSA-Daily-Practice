@@ -154,6 +154,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 113 | Topological Sort Of A Graph | Graph | ✅ |
 | Day 114 | Number Of Provinces | Graph | ✅ |
 | Day 115 | Detect Cycle In A Directed Graph | Graph | ✅ |
+| Day 116 | Check If Graph Is Bipartite | Graph | ✅ |
 
 ---
 
