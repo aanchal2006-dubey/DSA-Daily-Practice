@@ -159,6 +159,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 118 | Count Connected Components In An Undirected Graph |Graph | ✅ |
 | Day 119 | Shortest Path In An Unweighted Graph | Graph | ✅ |
 | Day 120 | Number Of Islands | Graph | ✅ |
+| Day 121 | 0/1 Knapsack Problem | Dynamic Programming | ✅ |
 
 ---
 
