@@ -161,6 +161,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 120 | Number Of Islands | Graph | ✅ |
 | Day 121 | 0/1 Knapsack Problem | Dynamic Programming | ✅ |
 | Day 122 | Longest Common Subsequence | Dynamic Programming | ✅ |
+| Day 123 | House Robber | Dynamic Programming | ✅ |
 
 ---
 
