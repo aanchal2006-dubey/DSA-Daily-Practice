@@ -164,6 +164,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 123 | House Robber | Dynamic Programming | ✅ |
 | Day 124 | Coin Change | Dynamic Programming | ✅ |
 | Day 125 | Longest Increasing Subsequence | Dynamic Programming | ✅ |
+| Day 126 | Minimum Path Sum | Dynamic Programming | ✅ |
 
 ---
 
