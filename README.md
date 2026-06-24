@@ -169,6 +169,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 128 | Partition Equal Subset Sum | Dynamic Programming | ✅ |
 | Day 129 | Word Break | Dynamic Programming | ✅ |
 | Day 130 | Unique Path II | Dynamic Programming | ✅ |
+| Day 131 | Best Time To Buy And Sell Stock With Cooldown | Dynamic Programming | ✅ |
 
 ---
 
