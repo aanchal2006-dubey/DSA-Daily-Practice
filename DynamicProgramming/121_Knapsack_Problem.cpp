@@ -29,7 +29,7 @@ using namespace std;
 
 int knapsack(int W, vector<int>& weights, vector<int>& values, int n) {
     // Create a 2D DP array to store the maximum value at each n and W
-    vector<vector<int>> dp(n + 1, vector<int>(W + 1, 0));
+    vector<vector<int> > dp(n + 1, vector<int>(W + 1, 0));
 
     // Build the DP table
     for (int i = 1; i <= n; i++) {
