@@ -172,6 +172,7 @@ I solve at least one DSA problem daily to improve problem-solving skills and pre
 | Day 131 | Best Time To Buy And Sell Stock With Cooldown | Dynamic Programming | ✅ |
 | Day 132 | Palindromic Substrings | Dynamic Programming | ✅ |
 | Day 133 | Decode Ways | Dynamic Programming | ✅ |
+| Day 134 | House Robber II | Dynamic Programming | ✅ |
 
 ---
 
